@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import whatsapp from '../img/whatsapp.svg'
-import logo from '../img/logo.svg'
+import logo from '../img/logo.png'
 
 const Navbar = class extends React.Component {
   componentDidMount() {
@@ -31,6 +31,9 @@ const Navbar = class extends React.Component {
     return (
       <nav
         className="navbar is-transparent"
+        style={{ 
+          boxShadow: '0 3px 5px -1px rgba(0,0,0,.2),0 6px 10px 0 rgba(0,0,0,.14),0 1px 18px 0 rgba(0,0,0,.12)' 
+        }}
         role="navigation"
         aria-label="main-navigation"
       >
@@ -48,14 +51,14 @@ const Navbar = class extends React.Component {
           </div>
           <div id="navMenu" className="navbar-menu">
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>
               <Link className="navbar-item" to="/products">
-                Products
+                Services
               </Link>
               <Link className="navbar-item" to="/blog">
                 Blog
+              </Link>
+              <Link className="navbar-item" to="/about">
+                About
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
