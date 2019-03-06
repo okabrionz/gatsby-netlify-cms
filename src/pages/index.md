@@ -1,22 +1,15 @@
 ---
 templateKey: 'index-page'
-title: 'Great coffee with a conscience'
+title: 'Semua Ada Disini'
 image: /img/pubg.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Membaca dan menulis ditemani secangkir kopi.
+subheading: Belajar dan berbagi di satu tempat. Iya! Disini.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Sangat bergairah pada saat mengembangkan website dengan performa yang tinggi.
 mainpitch:
-  title: Why Kaldi
+  title: Oka bRionZ
   description: >
-      Kaldi is the coffee store for everyone who believes that
-      great coffee shouldn't just taste good, it should do good
-      too. We source all of our beans directly from small scale
-      sustainable farmers and make sure part of the profits are
-      reinvested in their communities.
+      Tujuan situs ini dibuat untuk tempat menyimpan ide untuk arsip masa depan dan dikala lupa. Mungkin tidak ada yang spesial, tapi artikel-artikel disini adalah pilihan yang sangat layak untuk dibaca.
 intro:
   blurbs:
     - image: /img/coffee.png
