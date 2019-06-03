@@ -6,11 +6,13 @@ description: >-
   Well, here are rare coffee in The world with expensive priced. Blaci Ivory
   Coffee, Finca El Injerto Coffee, Hacienda La Esmeralda, Kopi Luwak, Saint
   Helena Coffee, Jamaican Blue Mountain Coffee, more.
+featuredpost: true
+featuredimage: /img/luwak.jpg
 tags:
   - Coffee
   - Work with Coffee
 ---
-![kopi luwak](/img/coffee.jpg "kopi luwak")
+![kopi luwak](/img/luwak.jpg "kopi luwak")
 
 Coffee is a popular energy boosting drink that is loved all over the world. The success of coffee chains like Starbucks tells its own tale. `Statista.com` states that the global market for instant coffee is expected to top $36.3 billion in 2020. And you’re likely one of the reasons for this growth. Here’s how you turn coffee into a global multi-billion business.
 
